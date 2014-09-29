@@ -28,6 +28,18 @@
 *.x86_64
 *.hex
 
-fw/Projects/MDK-ARM/*
-!fw/Projects/MDK-ARM/*.uvproj
-.mxproject
+# Gerbers
+*.gbl
+*.gbo
+*.gbs
+*.gko
+*.gtl
+*.gto
+*.gts
+*.gbr
+*.drl
+*.xln
+*.txt
+*.g2l
+*.g3l
+*.zip
